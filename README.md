@@ -12,17 +12,17 @@ here is output below:
 
 ```md
 --------------Your Ip Information--------------
-Ip: 112.97.57.94
+Ip: xx.xx.x.xxx
 --------------Location Information-------------
 Country: China
 State: Guangdong
 City: Shenzhen
-Postal Code: 518026
+Postal Code: xxxxx
 Time Zone: +08:00
 ----------------ISP Information----------------
 ISP: China Unicom Guangdong Province Network
-Host Name: 112.97.57.94
-ASN: 17623
+Host Name: xx.xxx.xx.xx
+ASN: xxxx
 ---------------------End-----------------------
 
 
